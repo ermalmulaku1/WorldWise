@@ -1,4 +1,4 @@
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import styles from "./map.module.css";
 import {
   MapContainer,
@@ -11,7 +11,7 @@ import {
 import { useEffect, useState } from "react";
 import { useCities } from "./contexts/CitiesContext";
 import { useGeolocation } from "../hooks/useGeolocation";
-import Button from "./button";
+import Button from "./Button";
 import { useUrlPosition } from "../hooks/useUrlPosition";
 
 function Map() {
