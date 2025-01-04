@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "8831",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-24T14:07:07.655Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41690822067146",
+        "lng": "-3.703079223632813"
+      }
+    },
+    {
+      "id": "c1b5",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-12-24T14:07:33.711Z",
+      "notes": "",
+      "position": {
+        "lat": "52.51284834895871",
+        "lng": "13.39508056640625"
+      }
+    },
+    {
+      "id": "b824",
+      "cityName": "Nessetal",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-12-24T17:16:26.320Z",
+      "notes": "",
+      "position": {
+        "lat": "51.001781932936865",
+        "lng": "10.634765625"
+      }
+    },
+    {
+      "id": "c17f",
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-24T17:17:02.470Z",
+      "notes": "",
+      "position": {
+        "lat": "39.08102729061357",
+        "lng": "-4.812011718750001"
+      }
+    }
+  ]
+}
