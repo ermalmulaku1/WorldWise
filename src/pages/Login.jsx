@@ -3,7 +3,7 @@ import styles from "./Login.module.css";
 import PageNav from "../components/PageNav";
 import Button from "../components/Button";
 import { UseAuth } from "../components/contexts/FakeAuthContext";
-import { replace, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
